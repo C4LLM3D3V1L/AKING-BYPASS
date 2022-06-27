@@ -19,7 +19,7 @@ if bit == '64bit':
     psb('\n\n\033[92;1m  AKING BYPASS IN PROGRESS...!')
     time.sleep(2)
     os.system('clear')
-    psb('\n\n\n\\033[91;1m BYPASS BY SecDet...!')
+    psb('\n\n\n\033[91;1m BYPASS BY SecDet...!')
     time.sleep(5)
     from adnan import readline___Public_Xml
     readline___Public_Xml()
